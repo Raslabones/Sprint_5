@@ -1,2 +1,2 @@
-user_email = 'pNdcTxsoJM@example.com'
-user_password = 'kMpnlX71'
+user_email = 'biGwSD0Uij@example.com'
+user_password = 'xvWXzGwA'

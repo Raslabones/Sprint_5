@@ -12,7 +12,6 @@ from urls import URLs
 def driver():
     """Фикстура для инициализации веб-драйвера с явными ожиданиями."""
     driver = webdriver.Chrome()
-    driver.wait = WebDriverWait(driver, 30)
     yield driver
     driver.quit()
 @pytest.fixture
